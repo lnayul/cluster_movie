@@ -684,4 +684,4 @@ for label in CIRCLE_NAMES[:n_clusters]:
 # 11. 유형별 관객 상위 영화
 # ==================================================
 st.divider()
-st.sub
+st.subheader("9. 분석 데이터 다운로드")
